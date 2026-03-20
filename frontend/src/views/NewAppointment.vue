@@ -60,4 +60,8 @@ async function save() {
     flex-direction: column;
     gap: 1rem;
     }
+
+    .content input {
+        width: 100%;
+    }
 </style>

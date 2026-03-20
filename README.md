@@ -29,3 +29,8 @@ Este projeto é uma aplicação Full Stack desenvolvida para o Trabalho de Disci
    ```env
    MONGO_URI=sua_url_do_mongodb
    JWT_SECRET=sua_chave_secreta
+
+## 👤 Autor
+- **Nome:** Nailson Carlos dos Santos Rocha
+- **Instituição:** Unijorge - Salvador/BA
+- **Curso:** Análise e Desenvolvimento de Sistemas
