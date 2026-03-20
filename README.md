@@ -30,6 +30,10 @@ Este projeto é uma aplicação Full Stack desenvolvida para o Trabalho de Disci
    MONGO_URI=sua_url_do_mongodb
    JWT_SECRET=sua_chave_secreta
 
+## Links de Acesso
+
+- **Repositório:** [https://github.com/devnailsonrocha/agenda_clinica]
+
 ## 👤 Autor
 - **Nome:** Nailson Carlos dos Santos Rocha
 - **Instituição:** Unijorge - Salvador/BA
